@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Russell&#39;s Blog</title>
+<link>https://russellwhansen.github.io/</link>
+<atom:link href="https://russellwhansen.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Sat, 19 Sep 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Who Needs Substack?</title>
+  <dc:creator>Russell Hansen</dc:creator>
+  <link>https://russellwhansen.github.io/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This will be my first post… when I get around to it, of course. I’m apparently working my way backwards through literary forms of the early 2000’s. At this rate, I’ll be distributing a ’zine in no time.</p>
+<p>No AI slop. Written in R Studio like the truly degenerate grad student I am.</p>
+
+
+
+ ]]></description>
+  <category>Projects</category>
+  <category>Thinking</category>
+  <guid>https://russellwhansen.github.io/posts/post-with-code/</guid>
+  <pubDate>Sat, 19 Sep 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://russellwhansen.github.io/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://russellwhansen.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://russellwhansen.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://russellwhansen.github.io/posts/welcome/</guid>
+  <pubDate>Wed, 16 Sep 2026 07:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
