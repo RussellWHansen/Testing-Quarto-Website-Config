@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: C:/Users/darkh/QuartoBlogProject
+  
 website:
   description: "A blog built with Quarto"
   site-url: https://russellwhansen.github.io/ # you must change this appropriately for RSS feeds to work properly
