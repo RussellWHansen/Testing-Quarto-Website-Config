@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "QuartoBlogProject",
+    "section": "",
+    "text": "Who Needs Substack?\n\n\n\nProjects\n\nThinking\n\n\n\n\n\n\n\n\n\nSep 19, 2026\n\n\nRussell Hansen\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 16, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Who Needs Substack?",
+    "section": "",
+    "text": "This will be my first post… when I get around to it, of course. I’m apparently working my way backwards through literary forms of the early 2000’s. At this rate, I’ll be distributing a ’zine in no time.\nNo AI slop. Written in R Studio like the truly degenerate grad student I am."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "No respite in reflection, I’m afraid."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]
